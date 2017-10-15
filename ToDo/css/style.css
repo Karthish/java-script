@@ -1,0 +1,17 @@
+.list-item {
+	cursor: pointer;
+}
+
+span.completed:after {
+	content: "\2713";
+}
+
+.usertask {
+	display: inline-block;
+	margin-right: 15px;
+	cursor: pointer;
+}
+
+button {
+	cursor: pointer;
+}
